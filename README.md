@@ -20,11 +20,11 @@ Breakdown of package Classes
 	* `ro.gotoandlearn.ui.charts.PieChart` (needs to be added to the ChartFactory)
 	* `ro.gotoandlearn.ui.charts.PyramidChart` (needs to be added to the ChartFactory)
 	* `ro.gotoandlearn.ui.charts.RadarChart` (needs to be added to the ChartFactory)
-	
+	<br />
 	* `ro.gotoandlearn.ui.color.SimpleColorBar`
 	* `ro.gotoandlearn.ui.color.SimpleColorWheel`
 	* `ro.gotoandlearn.ui.color.SimpleHoneyComb`
-	
+<br />	
 * `ro.gotoandlearn.utils.EncoderUtils` (used to encode/decode strings to a hexadecimal representation and back)
 * `ro.gotoandlearn.utils.MathUtils` (used for different conversions)
 * `ro.gotoandlearn.utils.StringUtils` (used for padding zeros to given numbers)
