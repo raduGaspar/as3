@@ -31,3 +31,4 @@ Breakdown of package Classes
 * `ro.gotoandlearn.utils.MathUtils` (used for different conversions)
 * `ro.gotoandlearn.utils.StringUtils` (used for padding zeros to given numbers)
 * `ro.gotoandlearn.utils.ColorUtils`
+* `ro.gotoandlearn.utils.BitmapUtils`
