@@ -1,6 +1,8 @@
-package ro.gotoandlearn.utils {
+package ro.gotoandlearn.utils
+{
 
-	public class ColorUtils  {
+	public class ColorUtils
+	{
 		/**
 		 * Blends two colors together.
 		 * @param from			color from which to blend
