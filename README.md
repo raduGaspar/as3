@@ -3,8 +3,10 @@ Documentation
 
 This is an ActionScript 3.0 library and it comes with the following packages:
 
-* `ro.gotoandlearn.ui`		(used for accessing all UI type classes, like Dot)
-* `ro.gotoandlearn.utils`	(used for accessing all Util type classes, like MathUtils)
+* `ro.gotoandlearn.ui`			(used for accessing all UI type classes, like Dot)
+* `ro.gotoandlearn.ui.charts`	(used for rendering various charts types)
+* `ro.gotoandlearn.ui.color`	(used for rendering various color pickers)
+* `ro.gotoandlearn.utils`		(used for accessing all Util type classes, like MathUtils)
 
 The `as3.as` is the Main class file and runs a few examples using classes in the above mentioned packages.
 
