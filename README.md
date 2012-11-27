@@ -14,6 +14,7 @@ Breakdown of package Classes
 ----------------------------
 * `ro.gotoandlearn.ui.Dot` (used to create an interactive Dot UI element; has a radius and an interactive radius)
 * `ro.gotoandlearn.ui.Hexagon` (used by the SimpleHoneyComb class)
+* 
 * `ro.gotoandlearn.ui.charts.BarChart` (needs to be added to the ChartFactory)
 * `ro.gotoandlearn.ui.charts.BarChart3D`
 * `ro.gotoandlearn.ui.charts.ChartFactory`
@@ -21,9 +22,11 @@ Breakdown of package Classes
 * `ro.gotoandlearn.ui.charts.PieChart` (needs to be added to the ChartFactory)
 * `ro.gotoandlearn.ui.charts.PyramidChart` (needs to be added to the ChartFactory)
 * `ro.gotoandlearn.ui.charts.RadarChart` (needs to be added to the ChartFactory)
+* 
 * `ro.gotoandlearn.ui.color.SimpleColorBar`
 * `ro.gotoandlearn.ui.color.SimpleColorWheel`
 * `ro.gotoandlearn.ui.color.SimpleHoneyComb`	
+* 
 * `ro.gotoandlearn.utils.EncoderUtils` (used to encode/decode strings to a hexadecimal representation and back)
 * `ro.gotoandlearn.utils.MathUtils` (used for different conversions)
 * `ro.gotoandlearn.utils.StringUtils` (used for padding zeros to given numbers)
