@@ -13,6 +13,7 @@ Breakdown of package Classes
 * `ro.gotoandlearn.ui.Dot`				(used to create an interactive Dot UI element; has a radius and an interactive radius)
 * `ro.gotoandlearn.utils.EncoderUtils`	(used to encode/decode strings to a hexadecimal representation and back)
 * `ro.gotoandlearn.utils.MathUtils`		(used for different conversions)
+* `ro.gotoandlearn.utils.StringUtils`	(used for padding zeros to given numbers)
 
 Importing this project into your Flash Builder Workspace
 --------------------------------------------------------
